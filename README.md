@@ -17,6 +17,8 @@ cd <project_name>
 yarn
 ```
 
+# Running
+
 ```
 yarn build
 yarn start
