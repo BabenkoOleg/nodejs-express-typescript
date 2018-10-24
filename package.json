@@ -2,8 +2,14 @@
   "name": "nodejs-express-typescript",
   "version": "0.0.1",
   "description": "The skeleton for building an application on nodejs, express and typescript.",
-  "repository": "https://github.com/BabenkoOleg/nodejs-express-typescript.git",
-  "author": "Oleg Babenko",
+  "author": {
+    "name": "Oleg Babenko",
+    "email": "majerkravchuk@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BabenkoOleg/nodejs-express-typescript.git"
+  },
   "license": "MIT",
   "dependencies": {
     "errorhandler": "^1.5.0",
