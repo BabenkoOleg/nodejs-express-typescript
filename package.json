@@ -1,0 +1,9 @@
+{
+  "name": "nodejs-express-typescript",
+  "version": "0.0.1",
+  "description": "The skeleton for building an application on nodejs, express and typescript.",
+  "main": "index.js",
+  "repository": "https://github.com/BabenkoOleg/nodejs-express-typescript.git",
+  "author": "Oleg Babenko",
+  "license": "MIT"
+}
